@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Omars Auth</string>
+
+    <!-- Button labels -->
+    <string name="sign_out">Sign Out</string>
+
+
+
+</resources>
